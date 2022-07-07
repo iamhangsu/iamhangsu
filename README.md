@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su10045@naver.com)](https://solved.ac/su10045@naver.com/)
 
 🖥️ IDE 🖥️
-<img src="https://img.shields.io/badge/IntelliJ IDEA-purple?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-purple?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
