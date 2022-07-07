@@ -15,4 +15,4 @@
 
 🖥️ IDE 🖥️
 
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-purple?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-purple?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
