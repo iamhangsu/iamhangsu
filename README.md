@@ -2,7 +2,7 @@
 
 💬 Social 💬
 
-</a> <a href="https://www.instagram.com/_hangsu_/">
+</a> <a href="https://www.instagram.com/hxng_sx/">
     <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/">        
 <a href="https://velog.io/@iamhangsu"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://github.com/iamhangsu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
